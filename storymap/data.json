@@ -13,10 +13,10 @@
                 "media": {
                     "caption": "",
                     "credit": "",
-                    "url": "https://th.bing.com/th/id/R.42d76866574b35274ec7a0f33c6d268d?rik=2nxpdI5QcyC%2fSQ&pid=ImgRaw&r=0"
+                    "url": "https://p0.ssl.qhimgs1.com/sdr/400__/t0138ac43370549e37e.jpg"
                 },
                 "text": {
-                    "headline": "苏轼和他的美食",
+                    "headline": "交响丝路之旅",
                     "text": "基于地图的交互叙事作品"
                 },
                 "type": "overview"
@@ -24,37 +24,91 @@
             {
                 "date": "2013-10-20",
                 "location": {
-                    "lat": 39.98054016455432,
+                    "lat": 40.149631,
                     "line": true,
-                    "lon": 116.29165649414062,
+                    "lon": 94.666228,
                     "zoom": 10
                 },
                 "media": {
                     "caption": "",
                     "credit": "",
-                    "url": "https://bucketdemo2023.oss-ap-southeast-1.aliyuncs.com/01.mp4"
+                    "url": "https://p2.ssl.qhimgs1.com/sdr/400__/t017da4aca6b3831ac2.jpg"
                 },
                 "text": {
-                    "headline": "羊蝎子",
-                    "text": "说明文字"
+                    "headline": "敦煌",
+                    "text": "敦煌市，是甘肃省酒泉市代管的一个县级市，位于甘肃省西北部，历来为丝绸之路上的重镇，是国家历史文化名城。敦煌东峙峰岩突兀的三危山，南枕气势雄伟的祁连山，西接浩瀚无垠的塔克拉玛干大沙漠，北靠嶙峋蛇曲的北塞山，以敦煌石窟及敦煌壁画而闻名天下，是世界文化遗产莫高窟和汉长城边陲玉门关及阳关的所在地。"
                 }
             },
             {
                 "date": "",
                 "location": {
-                    "lat": 19.52,
+                    "lat": 39.777517,
                     "line": true,
-                    "lon": 109.58,
+                    "lon":98.29275 ,
                     "zoom": 8
                 },
                 "media": {
-                    "caption": "图片标题",
+                    "caption": "嘉峪关",
                     "credit": "",
-                    "url": "https://bucketdemo2023.oss-ap-southeast-1.aliyuncs.com/OIP.jpg"
+                    "url": "https://p2.ssl.qhimgs1.com/sdr/400__/t014fe1e4e5094cb512.jpg"
                 },
                 "text": {
-                    "headline": "事件二",
-                    "text": "事件说明"
+                    "headline": "天下雄关",
+                    "text": "嘉峪关位于甘肃省嘉峪关市西5公里处最狭窄的山谷中部，城关两侧的城墙横穿沙漠戈壁，北连黑山悬壁长城，南接天下第一墩，是明长城最西端的关口，历史上曾被称为河西咽喉，因地势险要，建筑雄伟，有天下第一雄关、连陲锁钥之称。"
+                }
+            },
+            {
+                "date": "2013-10-20",
+                "location": {
+                    "lat":39.777517 ,
+                    "line": true,
+                    "lon":98.29275 ,
+                    "zoom": 10
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://p2.ssl.qhimgs1.com/sdr/400__/t0172a5964927c67948.jpg"
+                },
+                "text": {
+                    "headline": "张掖",
+                    "text": "张掖，甘肃省省辖市。以“张国臂掖，以通西域”而得名，位于中国甘肃省西北部，河西走廊中段。古称“甘州”，即甘肃省名“甘”字由来地，素有“桑麻之地”、鱼米之乡之美称。盛产小麦、玉米、水稻、豆类、油料、瓜果、蔬菜，工业有煤炭、机械、纺织、酿造等10余个部门。"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat":37.935289 ,
+                    "line": true,
+                    "lon": 102.644556,
+                    "zoom": 8
+                },
+                "media": {
+                    "caption": "武威",
+                    "credit": "",
+                    "url": "https://p1.ssl.qhimgs1.com/sdr/400__/t01af58695ec21c39a7.jpg"
+                },
+                "text": {
+                    "headline": "中国人参果之乡",
+                    "text": "武威市，是甘肃省下辖市，中国地级市。位于甘肃省中部，河西走廊的东端，东临省会兰州，西通金昌，南依祁连山，北接腾格里沙漠。"
+                }
+            },
+            {
+                "date": "2013-10-20",
+                "location": {
+                    "lat":36.066768,
+                    "line": true,
+                    "lon":103.838224,
+                    "zoom": 10
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://p1.ssl.qhimgs1.com/sdr/400__/t010e1ce9687bd8a271.jpg"
+                },
+                "text": {
+                    "headline": "兰州",
+                    "text": "兰州地处中国陆域版图的几何中心，现辖城关、七里河、西固、安宁、红古5区和永登、榆中、皋兰3县，现有1个国家级新区——兰州新区，以及兰州高新技术产业开发区、兰州经济技术开发区2个国家级开发区，地域总面积1.32万平方公里，2022年末常住人口441.53万人。"
                 }
             }
         ]
