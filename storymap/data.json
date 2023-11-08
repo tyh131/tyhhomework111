@@ -1,0 +1,62 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "map_type": "stamen:toner-labels",
+        "slides": [
+            {
+                "date": "2023-10-20",
+                "location": {
+                    "line": true
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://th.bing.com/th/id/R.42d76866574b35274ec7a0f33c6d268d?rik=2nxpdI5QcyC%2fSQ&pid=ImgRaw&r=0"
+                },
+                "text": {
+                    "headline": "苏轼和他的美食",
+                    "text": "基于地图的交互叙事作品"
+                },
+                "type": "overview"
+            },
+            {
+                "date": "2013-10-20",
+                "location": {
+                    "lat": 39.98054016455432,
+                    "line": true,
+                    "lon": 116.29165649414062,
+                    "zoom": 10
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "https://bucketdemo2023.oss-ap-southeast-1.aliyuncs.com/01.mp4"
+                },
+                "text": {
+                    "headline": "羊蝎子",
+                    "text": "说明文字"
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 19.52,
+                    "line": true,
+                    "lon": 109.58,
+                    "zoom": 8
+                },
+                "media": {
+                    "caption": "图片标题",
+                    "credit": "",
+                    "url": "https://bucketdemo2023.oss-ap-southeast-1.aliyuncs.com/OIP.jpg"
+                },
+                "text": {
+                    "headline": "事件二",
+                    "text": "事件说明"
+                }
+            }
+        ]
+    }
+}
