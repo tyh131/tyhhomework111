@@ -1,0 +1,8 @@
+changeBg:2.jpg -next;
+小明:我们做的非常好！我觉得我们为这些动物做了很多。 -fontSize=default;
+小红:是的，保护动物是一件非常重要的事情。我们应该继续努力。 -fontSize=default;
+小明:经过一天的努力，我们成功地帮助清理了动物笼子和喂养了动物。 -fontSize=default;
+小红:是的，我们为自己的贡献感到自豪。 -fontSize=default;
+园长:非常感谢你们的帮助，你们是保护动物的伟大使者。记住，保护动物是每个人的责任。 -fontSize=default;
+小明和小红（一起说）:我们会继续努力保护动物！ -fontSize=default;
+end;

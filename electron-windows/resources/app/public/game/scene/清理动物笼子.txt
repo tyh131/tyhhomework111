@@ -1,0 +1,10 @@
+changeBg:3.jpg -next;
+园长:太好了！我们最近笼子里很乱，你们可以开始清理笼子了。 -fontSize=default;
+这里好脏啊，但我们要为动物们提供一个干净的环境。 -fontSize=default;
+小红:我们已经清理了一部分，还有些工作要完成，我们一起加油吧！ -fontSize=default;
+intro:小红和小明清理了一段时间~ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:2.jpg -next;
+园长:非常感谢你们帮忙清理笼子 -fontSize=default;
+小红:园长您客气了呢，还有什么可以帮您的呢？ -fontSize=default;
+园长:要是你们不嫌麻烦的话，可以帮忙喂一下动物。 -fontSize=default;
+choose:喂养动物:最后喂动物.txt;

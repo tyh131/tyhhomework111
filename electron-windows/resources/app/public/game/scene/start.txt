@@ -1,0 +1,12 @@
+; 初始场景，以及特效演示
+bgm:s_Title.mp3;
+unlockBgm:s_Title.mp3 -name=雲を追いかけて;
+intro:世界动物日每年10月4日是世界动物日，动物是人类的好朋友，是有着和人类一样生命的美丽精灵，让我们一起行动、一起保护共建人与自然、与动物和谐相处的美好家园！ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:1.jpg -next;
+小明和小红来到动物园。 -fontSize=default;
+小明:哇，好多动物呀！它们好可爱！ -fontSize=default;
+小红:是啊，我们能够来这里保护它们真是太好了。 -fontSize=default;
+changeBg:2.jpg;
+小明:您好，园长！我们听说您在这里负责保护动物，我们来帮忙了解一下。 -fontSize=default;
+园长:欢迎来到动物保护中心！感谢你们的关心和支持。我们有很多任务需要完成，你们可以选择帮助修理动物笼子还是帮助喂养动物？ -fontSize=default;
+choose:帮助修理动物笼子:修理动物笼子.txt|帮助喂养动物:喂动物1.txt|帮助清理动物笼子:清理笼子前需先修笼子.txt;

@@ -1,0 +1,4 @@
+changeBg:4.jpg -next;
+小红:看！这些小动物吃东西的样子好可爱呀！ -fontSize=default;
+小明:简直可爱！ -fontSize=default;
+changeScene:结尾.txt

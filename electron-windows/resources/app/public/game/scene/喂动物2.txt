@@ -1,0 +1,4 @@
+changeBg:3.jpg -next;
+小红:这个笼子看起来挺脏的，我们清理干净了再喂小动物吧。 -fontSize=default;
+小明:这是个好主意！ -fontSize=default;
+choose:清理笼子:清理动物笼子.txt;

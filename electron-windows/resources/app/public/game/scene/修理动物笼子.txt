@@ -1,0 +1,12 @@
+changeBg:3.jpg -next;
+小明:这些笼子看起来非常脆弱，我们需要小心修补。 -fontSize=default;
+小红:好的，我会注意些的。 -fontSize=default;
+intro:小红和小明修理了一段时间~ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+小明:终于修好了！ -fontSize=default;
+小红:可爱的小动物，你的家修好啦！ -fontSize=default;
+changeBg:2.jpg;
+园长:非常感谢你们帮忙修好笼子！ -fontSize=default;
+小红:园长您客气了！ -fontSize=default;
+小明:园长，还有什么需要帮忙您尽管提！ -fontSize=default;
+园长:如果你们不嫌麻烦的话，还可以帮忙清理笼子或者喂一下动物噢。 -fontSize=default;
+choose:清理笼子:清理动物笼子.txt|喂动物:喂动物2.txt;

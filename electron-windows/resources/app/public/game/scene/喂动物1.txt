@@ -1,0 +1,4 @@
+changeBg:3.jpg -next;
+小红:小动物的笼子已经坏了，我们先帮它修理吧。 -fontSize=default;
+小明:我觉得这是个好主意！ -fontSize=default;
+choose:修理笼子:修理动物笼子.txt;
